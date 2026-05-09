@@ -8,3 +8,5 @@ INSTALLATION STEPS
 5. Upload folder
 6. Click the puzzle piece on top right and pin extension
 7. Enjoy!
+
+*You might have to reload the page when you click your first YouTube video
